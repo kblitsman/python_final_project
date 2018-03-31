@@ -1,0 +1,1004 @@
+Name,Specialty,Location,Rating,Reviews
+Namrata Khimani M.D.,Anesthesiology,New York,5.0,12
+Michael Nguyen M.D.,Pain Management,New York,4.9,27
+Dmitriy Fuzaylov M.D.,Pain Management,Malverne,4.8,6
+Dr. Daniel Weitz,Clinical Cardiac Electrophysiology,New York,5.0,61
+Dr. Mehran Alagheband,Dermatology,Glen Cove,5.0,56
+Dr. Justin Cohen MD,Otolaryngology,New York,5.0,49
+Dr. Shahriar Shayani,Internal Medicine,New Hyde Park,5.0,114
+Deevya Narayanan D.O.,Family Medicine,New York,5.0,23
+Dr. Brian K Chung,Pediatrics,Astoria,5.0,22
+Dr. Anjan V Rau,Vascular Surgery,Brooklyn,5.0,18
+"Dr. Michal Lavine MD, DMD",General Dentistry,New York,5.0,25
+Dr. Barry J Richman,Neurology,New York,5.0,17
+Dr. Marc E Liebeskind,Diagnostic Radiology,New York,5.0,16
+Dr. Michael C Haben,Otolaryngology,Rochester,5.0,20
+Dr. John F Morrison,Neurological Surgery,Buffalo,5.0,315
+Dr. Babak Mohajer,Gastroenterology,New York,5.0,29
+Dr. Eli Greenberg,Psychiatry,New York,5.0,24
+Dr. Rosemarie P Gambetta,Internal Medicine,New York,5.0,19
+Dr. Libi Z Galmer,Sports Medicine,Fresh Meadows,5.0,19
+Dr. Namrata Khimani,Pain Medicine,New York,5.0,12
+Monica Kapoor,Emergency Medicine,Hawthorne,5.0,29
+"Dr. Ali Payami MD, DMD",Oral and Maxillofacial Surgery,Yorktown Heights,5.0,19
+Dr. Nivea B Calico,Neurology,New York,5.0,19
+Dr. Yury Koyen,Pain Medicine,Brooklyn,5.0,10
+Dr. Rhonda J Pomerantz,Dermatology,New York,5.0,33
+Dr. Amado A Baez,Emergency Medicine,Brooklyn,5.0,22
+Dr. Zhanna Tsukerman MD,Internal Medicine,Brooklyn,5.0,17
+Dr. John J Olichney,Hematology and Oncology,New York,5.0,15
+Dr. Frank C Smith,Pediatric Cardiology,Syracuse,5.0,15
+"Dr. Gregory Bohle MD, DDS",Oral and Maxillofacial Surgery,Huntington,5.0,13
+Dr. Debra M Kroll,Ophthalmology,New York,5.0,13
+Dr. Mehdi M Sina,Otolaryngology,New York,5.0,13
+Dr. Vivien Lim,Cardiovascular Disease,Flushing,5.0,11
+Dr. Katerina S Silverblatt,Pediatrics,Brooklyn,5.0,10
+Dr. Jason A Moche,Plastic Surgery,New York,5.0,27
+Dr. Andrew B Eisenberger,Internal Medicine,New York,5.0,24
+Dr. Leslie Saint-Louis MD,Neuroradiology,Brooklyn,5.0,18
+Rebecca Chusid MD,Dermatology,Great Neck,5.0,18
+Dr. Robert F Love,Family Medicine,Glens Falls,5.0,17
+Dr. Andrew K Young,Physical Medicine and Rehabilitation,Flushing,5.0,16
+Dr. Steven J Simonte,Allergy and Immunology,New York,5.0,15
+Dr. Lloyd R Sookhu,Internal Medicine,Jamaica,5.0,14
+Dr. James T Goodrich,Neurological Surgery,Bronx,5.0,13
+Dr. Alice Wei,Internal Medicine,New York,5.0,12
+Dr. Jaqueline M Worth,Obstetrics and Gynecology,New York,5.0,11
+Dr. Aastha Kalra,Internal Medicine,Montrose,5.0,11
+Dr. Craig L Basman,Internal Medicine,New York,5.0,9
+Dr. Brian J Wagner,Maternal and Fetal Medicine,New York,5.0,22
+Dr. Benjamin L Yam,Diagnostic Radiology,Bronx,5.0,21
+Dr. Katherine Hsu,,Brooklyn,5.0,219
+Dr. Vlad Kononchuk,Psychiatry,Bellerose,5.0,17
+Dr. Todd M Mcniff,Internal Medicine,New York,5.0,16
+Thomas J Giannattasio Sr,Pediatrics,Massapequa Park,5.0,15
+Michael T McCarville,,Binghamton,5.0,14
+Dr. Gagan D Sahni,Cardiovascular Disease,New York,5.0,13
+Dr. David C Cheeran,Vascular Surgery,Rochester,5.0,13
+Jay A Schechtman,Physical Medicine and Rehabilitation,Scarsdale,5.0,11
+Dr. Hai T Cao,Pediatrics,Brooklyn,5.0,10
+Dr. Amit A Shah,Anesthesiology,Cooperstown,5.0,29
+Dr. Thomas T Woloszyn,Plastic Surgery,Staten Island,5.0,8
+Dr. Samir A Sidani,Family Medicine,Larchmont,5.0,18
+Dr. Muhammad A Wattoo,Internal Medicine,Ithaca,5.0,15
+Dr. Dimitrios V Avgerinos,Thoracic Surgery (Cardiothoracic Vascular Surgery),New York,5.0,15
+Dr. Sughosh Dhakal,Radiation Oncology,Rochester,5.0,15
+Dr. Darius P Melisaratos,Diagnostic Radiology,Staten Island,5.0,14
+Mehran N Tafreshi,,Forest Hills,5.0,13
+Dr. Joel A Yellin,Surgery,Rochester,5.0,13
+Dr. Jennifer N Mingione,Internal Medicine,West Babylon,5.0,13
+Dr. Maurice J Martin,Family Medicine,New York,5.0,13
+Dr. Nilay R Shah,Neurology,Mount Kisco,5.0,13
+Dr. Rebecca J Kurth,Internal Medicine,New York,5.0,12
+Dr. Masooma Z Sheikh,Internal Medicine,Greenvale,5.0,12
+Dr. Angela C Cavanna,Sports Medicine,Red Hook,5.0,12
+Dr. Jeffrey J Basti,Internal Medicine,Brooklyn,5.0,12
+Dr. Fred Howard MD,Gynecology,Rochester,5.0,11
+Dr. Raymundo Corpuz Jr MD,Pediatrics,Brooklyn,5.0,10
+Dr. Shane S Spicer,Psychiatry,New York,5.0,10
+Dr. Elizabeth C Anisis,Family Medicine,Bethpage,5.0,10
+Dr. Justin C Kanaley,Pediatrics,East Amherst,5.0,10
+Dr. Yves P Gobin,Neurological Surgery,New York,5.0,9
+Dr. Ashish Agarwala,Surgery,Port Jefferson,5.0,9
+Dr. Sandy Cheung,Internal Medicine,Stony Brook,5.0,9
+Dr. Gauri Khurana,Child and Adolescent Psychiatry,New York,5.0,8
+Dr. Steven Sandoval,Surgery,Stony Brook,5.0,7
+Dr. Gary S Berger,Plastic Surgery,Harrison,5.0,7
+Dr. Maha Ahmad,Sleep Medicine,New York,5.0,6
+Dr. Kambiz Shekib,Internal Medicine,Great Neck,5.0,6
+Dr. Marguerite H Collins,Internal Medicine,Shandaken,5.0,26
+Dr. Shirley Gresseau,Obstetrics and Gynecology,New Rochelle,5.0,18
+Dr. Praveen Kadimcherla,Orthopaedic Surgery of the Spine,Bronx,5.0,17
+Dr. Yizhak Y Kupfer,Internal Medicine,Brooklyn,5.0,16
+Dr. Alexander Benitt MD,Pediatrics,Stony Brook,5.0,15
+Dr. Roger S Kersten,Internal Medicine,Massapequa,5.0,15
+Dr. Mary K Mcgorray,Internal Medicine,Buffalo,5.0,14
+George J Tsioulias,,Garden City,5.0,13
+Dr. Monique S Hanono,Pediatrics,Long Beach,5.0,13
+Saleh Z Sarwar,Cardiovascular Disease,Newburgh,5.0,12
+Dr. Mujtaba A Hasnain,Nephrology,Saratoga Springs,5.0,12
+Dr. Andrew Wackett,Emergency Medicine,Stony Brook,5.0,11
+Dr. Shervin Mortazavi,Internal Medicine,Bronx,5.0,11
+Dr. Clive S Zent,Internal Medicine,Rochester,5.0,11
+Dr. Christopher J Murphy,Family Medicine,Schenectady,5.0,11
+Dr. David Duffy MD,Internal Medicine,Astoria,5.0,10
+Dr. Vanessa T Pero,Internal Medicine,Garden City,5.0,10
+Dr. John M Scalzone,Obstetrics and Gynecology,Corning,5.0,10
+Dr. Joseph S Cirrone,Radiation Oncology,East Setauket,5.0,10
+Dr. Irving Zoltan,Pediatrics,New Rochelle,5.0,10
+Dr. Shepard D Weiner,Cardiovascular Disease,New York,5.0,10
+Dr. Arthur L Ossias,Hematology,New York,5.0,10
+Dr. Barry D Berson,Diagnostic Radiology,New York,5.0,10
+Rakesh K Mehta,,Wappingers Falls,5.0,10
+Dr. Fredrick Z Bierman,Pediatric Cardiology,Hawthorne,5.0,9
+Dr. Scot S Shapiro,Neurology,New York,5.0,9
+Dr. Frank T Pollaro,Internal Medicine,Babylon,5.0,9
+Dr. Burr W Hall,Clinical Cardiac Electrophysiology,Rochester,5.0,9
+Dr. Fredrick Z Bierman,Pediatrics,Hawthorne,5.0,9
+Dr. Ronald L Sham,Internal Medicine,Rochester,5.0,9
+Dr. Mourad Shehebar,Anesthesiology,New York,5.0,9
+Dr. Sassan Naderi,Emergency Medicine,New Hyde Park,5.0,9
+Dr. Robert M Droege,Family Medicine,Amsterdam,5.0,8
+Dr. Robert I Rattiner,Internal Medicine,Williston Park,5.0,8
+Dr. Qian Xie MD,Gastroenterology,Poughkeepsie,5.0,7
+Dr. Stanley John,Pediatrics,New City,5.0,7
+Dr. Raquel M Rosen,Internal Medicine,Cooperstown,5.0,7
+Dr. Nicole T Boniquit,Sports Medicine,New York,5.0,7
+Dr. Margaret M Seide,Addiction Medicine,Staten Island,5.0,7
+Dr. Michael B Tom,Otolaryngology,Yonkers,5.0,7
+Dr. Paul J Rosenfield,Psychiatry,New York,5.0,7
+Dr. Reena N Rupani,Dermatology,New York,5.0,7
+"Steven Smullin DMD,, MD",Oral and Maxillofacial Surgery,Mount Kisco,5.0,6
+Dr. Thomas M Biancaniello,Pediatrics,Nesconset,5.0,6
+Dr. Laura R Sirulnik,Neurology,New York,5.0,6
+Dr. Nelson L Tieng,Internal Medicine,White Plains,5.0,6
+Dr. Farida Barodawala MD,Anesthesiology,Buffalo,5.0,5
+Dr. Ghulam S Joyo,Anesthesiology,Yonkers,5.0,5
+Dr. Zahi M Kassas,Pediatrics,Wellsville,5.0,26
+Dr. Michael R Levine,Internal Medicine,Woodmere,5.0,19
+Dr. Julene O Evans Murage,Obstetrics and Gynecology,Middletown,5.0,19
+Dr. Zeev Levin,Psychiatry,New York,5.0,18
+Dr. Peter S Maran,Obstetrics and Gynecology,Brooklyn,5.0,16
+Dr. John D Scinto,Allergy and Immunology,Ossining,5.0,16
+Dr. Peter K Stevens,Family Medicine,New Rochelle,5.0,15
+Dr. Marianne Styler,Obstetrics and Gynecology,New York,5.0,15
+Dr. Sherry K Solomon,Ophthalmology,Scarsdale,5.0,15
+Dr. David A Rubin,Internal Medicine,West Harrison,5.0,14
+Dr. Tanya D Mays,Obstetrics and Gynecology,Utica,5.0,13
+Dr. Anthony D Rotella,Family Medicine,Fulton,5.0,12
+Dr. Neil C Goldman,Allergy and Immunology,Croton On Hudson,5.0,12
+Dr. Caroline C Cho,Pediatrics,Tarrytown,5.0,12
+Dr. Anthony D Rotella,Family Medicine,Fulton,5.0,12
+Dr. Ruby R Malva,Pediatrics,College Point,5.0,12
+Dr. Brian J Kistler,Orthopaedic Surgery,East Syracuse,5.0,12
+Dr. Jeffry L Jacobs,Plastic Surgery,Monsey,5.0,12
+Dr. John T Bank,Family Medicine,Rochester,5.0,12
+Dr. Shannon H Fourtner,Pediatric Endocrinology,Buffalo,5.0,12
+Dr. Michael A Rosen,Nephrology,Mount Kisco,5.0,11
+Dr. Kimberly P Kaffenbarger,Internal Medicine,Elmira,5.0,11
+Dr. Michael J Wiechowski,Internal Medicine,New York,5.0,11
+Dr. Michael A Rosen,Internal Medicine,Mount Kisco,5.0,11
+Dr. Frank M Nochimson,Family Medicine,Brooklyn,5.0,11
+Dr. Jona D Weiss,Pediatrics,New York,5.0,11
+Dr. Edward M Wolin,Internal Medicine,Bronx,5.0,11
+Dr. Sandra J Hughes,Pediatrics,Brooklyn,5.0,10
+Dr. Robert S Grimshaw Jr,Internal Medicine,Jefferson Valley,5.0,10
+Dr. Gramen Tontchev,,Brooklyn,5.0,10
+Dr. Iram Siddiqui,Internal Medicine,Syracuse,5.0,10
+Dr. May Tsui,Psychiatry,New York,5.0,10
+Dr. Michael I Horowitz,Surgery,Brooklyn,5.0,310
+Dr. Asim Farid,Colon and Rectal Surgery,Rochester,5.0,10
+Sunil Abrol,Thoracic Surgery (Cardiothoracic Vascular Surgery),Brooklyn,5.0,10
+Dr. Peter A Kouides,Hematology,Rochester,5.0,10
+Dr. Kathryn Spanknebel MD,Surgical Oncology,Valhalla,5.0,9
+Dr. Helen Colen MD,Osteopathic Manipulative Medicine,New York,5.0,9
+Dr. Nauman A Piracha,Internal Medicine,Flushing,5.0,9
+Dr. Paula M Castano,Obstetrics and Gynecology,New York,5.0,9
+Dr. Odessa E Hoinkis,Family Medicine,Monsey,5.0,9
+Dr. Craig D Hametz,Internal Medicine,Cortlandt Manor,5.0,9
+Dr. Ausra D Selvadurai,Ophthalmology,Buffalo,5.0,9
+Dr. Jordan Klesmer,Neurology,Great Neck,5.0,9
+Dr. Neil Trachtman MD,Family Medicine,Greenwich,5.0,8
+Dr. Vihas M Patel,Critical Care Medicine,New Hyde Park,5.0,8
+Dr. Gudrun Aspelund MD,Pediatric Surgery,New York,5.0,8
+Dr. Robert E Burke,Internal Medicine,Horseheads,5.0,8
+Dr. Thomas M Ciecierega,Pediatric Gastroenterology,New York,5.0,8
+Dr. Laurey G Mogil,Ophthalmology,Brooklyn,5.0,8
+Dr. Jeffrey A Matos,Clinical Cardiac Electrophysiology,New York,5.0,8
+Dr. Gerard C Hellman,Internal Medicine,New York,5.0,8
+Dr. David A Shenouda,Internal Medicine,East Setauket,5.0,8
+Dr. Michael C Zang,Pediatrics,Rochester,5.0,28
+Dr. Bruce K Barach,Plastic Surgery,Schenectady,5.0,8
+Dr. Anna L Dickerman,Psychiatry,New York,5.0,8
+Dr. Harold L Husovsky,Internal Medicine,Syracuse,5.0,8
+Dr. Robyn J Blair,Pediatrics,Stony Brook,5.0,8
+Dr. Benedetto B Vitullo,Neonatal-Perinatal Medicine,Rochester,5.0,8
+Dr. Kameelah A Phillips,Obstetrics and Gynecology,New York,5.0,8
+Dr. Dianne S Acuna,Internal Medicine,New York,5.0,8
+Dr. Christine Chang,Geriatric Medicine,New York,5.0,27
+"Dr. Sei Iwai MD, FACC",Clinical Cardiac Electrophysiology,New Windsor,5.0,7
+Dr. Anthony A Garami,Adolescent Medicine,Plattsburgh,5.0,7
+"Dr. Arumugam Kuperan MD, BS, MBBS",Pediatrics,Buffalo,5.0,7
+Dr. Arnold Nussbaum DO,Pediatrics,Brooklyn,5.0,7
+Dr. Ira D Rothfeld,Otolaryngology,New York,5.0,7
+Dr. Murray F Brennan,Surgery,New York,5.0,7
+Dr. Raghad H Said,Critical Care Medicine,New York,5.0,7
+Dr. Demetrios Gasparis,Family Medicine,Endicott,5.0,7
+Dr. Sandy A Kahn,Cardiovascular Disease,Syosset,5.0,7
+Dr. Walter M Ralph Jr,Otolaryngology,Bronx,5.0,7
+Dr. Aaron D Huizenga,Family Medicine,Alexandria Bay,5.0,7
+Dr. Christine Chang,Internal Medicine,New York,5.0,27
+Dr. Daniel G Swistel,Thoracic Surgery (Cardiothoracic Vascular Surgery),New York,5.0,7
+Dr. Veleka M Willis,Obstetrics and Gynecology,New York,5.0,7
+Dr. Raul A Ulloa,Family Medicine,Valhalla,5.0,7
+Basya V Herbert,,Rochester,5.0,7
+Dr. Emma Benjamin,Physical Medicine and Rehabilitation,Brooklyn,5.0,7
+Dr. Sima S Pendharkar,Hospitalist,Brooklyn,5.0,7
+Dr. Anthony A Garami,Adolescent Medicine,Plattsburgh,5.0,7
+Dr. Gregory Kinsella,Anesthesiology,New York,5.0,6
+Dr. Edmond Cohen MD,Anesthesiology,New York,5.0,6
+Dr. Amy Lazzarini MD,Gastroenterology,Syracuse,5.0,6
+Dr. Timothy Cardina MD,Internal Medicine,Ithaca,5.0,6
+Dr. Gregory Saboeiro MD,Vascular and Interventional Radiology,New York,5.0,6
+Dr. Gregory Kinsella,Anesthesiology,New York,5.0,6
+Dr. John A Perrotti,Plastic Surgery,New York,5.0,6
+Dr. Leon Mullen,Internal Medicine,East Meadow,5.0,6
+Dr. Elliot N Dehaan,Internal Medicine,New York,5.0,6
+Dr. Stephen R Karbowitz,Internal Medicine,Flushing,5.0,6
+Dr. Shanthi Mogali,Addiction Medicine,New York,5.0,6
+Dr. Deepak G Vadhan,Sleep Medicine,Brooklyn,5.0,6
+Dr. William M Klein,Internal Medicine,Great Neck,5.0,26
+Dr. Mateusz Opyrchal,Medical Oncology,Buffalo,5.0,6
+Dr. Alexander H Tejani,Orthopaedic Surgery,Brooklyn,5.0,196
+"Dr. Michael Eisenberg MD, MPH",Anesthesiology,Great Neck,5.0,25
+Dr. Mark Melrose DO,Emergency Medicine,New York,5.0,5
+Susan C Schachner,,Brooklyn,5.0,5
+Dr. Bruce S Shulman,Gynecology,Manhasset,5.0,5
+Dr. Ursulina L Bencosme,Pediatrics,Bronx,5.0,5
+Dr. Lesley Z Glowinsky,Pediatrics,Rochester,5.0,5
+Dr. Norman S Fertel,Obstetrics and Gynecology,Brooklyn,5.0,5
+Dr. Richard E Greene,Sports Medicine,New York,5.0,5
+Dr. David M Sherman,Neurology,New York,5.0,25
+Dr. Mun K Hong,Cardiovascular Disease,Cooperstown,5.0,5
+Dr. Ahmet L Guler,Internal Medicine,Medina,5.0,5
+Dr. Jonathan G Eli-Phillips,Obstetrics and Gynecology,Jamestown,5.0,5
+"Dr. James Gasperino MD, PHD",Critical Care Medicine,Bronx,5.0,4
+Dr. Gretchen S Burke,Adolescent Medicine,Rochester,5.0,4
+James A Gasperino,Pulmonary Disease,Bronx,5.0,4
+Dr. Zeev Stegman,Ophthalmology,Bronx,5.0,4
+Dr. David K Rabady,Ophthalmology,East Meadow,5.0,4
+Dr. Pervaiz Iqbal,Pulmonary Disease,Brooklyn,5.0,4
+Dr. Kallanna Manjunath,Pediatrics,Albany,5.0,4
+Dr. Esther Kim,Psychiatry,New York,5.0,24
+Dr. Loukas S Boutis,Internal Medicine,Manhasset,5.0,19
+Dr. Thomas J Russi,Internal Medicine,Brooklyn,5.0,17
+Dr. Leslie A Saltzman,Internal Medicine,New York,5.0,17
+Dr. Lourdes G Merlo,Hospice and Palliative Medicine,Fresh Meadows,5.0,16
+Dr. Ines M Muia-Chisena,Pediatrics,Huntington,5.0,15
+Dr. Richard D Glick,Pediatric Surgery,New Hyde Park,5.0,15
+Dr. Steven M Gelman,Pediatrics,Brooklyn,5.0,14
+Dr. Juan D Pedraza,Child and Adolescent Psychiatry,New York,5.0,14
+Dr. Vicki L Shanker,Psychiatry,New York,5.0,14
+Dr. Scott J Zuccala,Gynecology,Buffalo,5.0,14
+Dr. Eric D Fethke,Pediatrics,Middletown,5.0,14
+Dr. Carolina C Baun,Pediatrics,Queens Village,5.0,13
+Dr. Peter M Pastuszko,Vascular Surgery,New York,5.0,13
+Dr. Rabih A Nemr,Surgery,Brooklyn,5.0,13
+Dr. Giuseppe Dellorusso,Pediatrics,East Rockaway,5.0,12
+Dr. Jamie L Wells,Pediatrics,New York,5.0,12
+Dr. Glenn A Goldstein,Internal Medicine,New York,5.0,12
+Dr. Heather S Chang,Ophthalmology,Troy,5.0,12
+Dr. Henry J Lee,Radiation Oncology,Bronxville,5.0,12
+Dr. Alyson W Smith,Allergy & Immunology,Bronx,5.0,11
+Dr. Victor A Rosenberg,Obstetrics and Gynecology,Manhasset,5.0,11
+Dr. Robert F Tranbaugh,Thoracic Surgery (Cardiothoracic Vascular Surgery),Brooklyn,5.0,11
+Dr. Cynthia L Krause,Obstetrics and Gynecology,New York,5.0,11
+Dr. Ingrid K Rosner,Pediatrics,New York,5.0,11
+Dr. Marc D Wager,Pediatrics,New Rochelle,5.0,11
+Dr. Victor J Vacanti,Internal Medicine,Buffalo,5.0,11
+Dr. Alyson W Smith,Pediatrics,Bronx,5.0,11
+Dr. Arpita Datta,Pediatrics,Bronx,5.0,11
+Dr. Andrew J Fasano,Adolescent Medicine,Bellmore,5.0,11
+Dr. Oguz M Akin,Radiology,New York,5.0,11
+Dr. Melinda Mingus MD,Anesthesiology,New York,5.0,10
+Dr. Stephen Hofmeister MD,Internal Medicine,New York,5.0,10
+Dr. Peer Dar,Medical Genetics,Bronx,5.0,10
+Dr. Tomas M Heimann,Surgery,New York,5.0,10
+Barbara A Zeifer,,New York,5.0,10
+Dr. Judy A Wesolowski,Obstetrics and Gynecology,Lewiston,5.0,10
+Dr. Paul S Cohen,Internal Medicine,Syracuse,5.0,210
+Dr. Michael J Fallon,Radiation Oncology,Cortland,5.0,10
+Dr. Imran Faisal,Neurology,New York,5.0,10
+Dr. Leonard M Kagan,Obstetrics and Gynecology,West Islip,5.0,10
+Dr. Jean M Cacciabaudo,Cardiovascular Disease,Bay Shore,5.0,10
+Dr. Afshin Shahkoohi,Internal Medicine,Brooklyn,5.0,10
+Dr. Sameet A Palkhiwala,Nuclear Cardiology,Astoria,5.0,10
+Dr. Jimmy C Sung,Plastic Surgery,New York,5.0,10
+Dr. Jed J Weinberg,Internal Medicine,Huntington,5.0,10
+William J Ledger,Obstetrics and Gynecology,New York,5.0,10
+Dr. Matthew L Ferrantino,Critical Care Medicine,Rochester,5.0,10
+Dr. Andrew J Ogden,Obstetrics and Gynecology,Alexandria Bay,5.0,10
+Dr. Jennifer F Canter,Child Abuse Pediatrics,Valhalla,5.0,10
+Dr. Marcello M Dibona,Internal Medicine,Bronx,5.0,10
+Dr. James A Listman,Pediatric Nephrology,Albany,5.0,9
+Dr. Eduardo A Tan,Emergency Medicine,Baldwin Place,5.0,9
+Dr. James A Listman,Nephrology,Albany,5.0,9
+Dr. Tracy E Alpert,Radiation Oncology,East Syracuse,5.0,9
+Dr. Laura J Decker,Family Medicine,Saugerties,5.0,9
+Dr. Heera S Shetty,Internal Medicine,Yonkers,5.0,9
+Dr. Jorge Sastre,Family Medicine,Brooklyn,5.0,9
+Dr. Joseph B Tenenbaum,Critical Care Medicine,New York,5.0,9
+Dr. Hillel B Naiman,Internal Medicine,Spring Valley,5.0,9
+Dr. Flavia Wajnsztajn-Theil,Obstetrics and Gynecology,New York,5.0,9
+Dr. Bolanle A Olajide,Pediatrics,Brooklyn,5.0,9
+Dr. Hector R Rodriguez,Internal Medicine,Bronx,5.0,9
+Dr. Carter B Lipton,Orthopaedic Surgery of the Hand,New York,5.0,9
+Dr. Payel Gupta,Allergy & Immunology,New York,5.0,8
+Dr. Lilli Link MD,Internal Medicine,New York,5.0,8
+Dr. Flavio Crisari,Internal Medicine,Woodhaven,5.0,8
+Dr. Stephen D Eadline,Pediatrics,New Hartford,5.0,8
+Dr. Michael W Chisdak,Internal Medicine,Johnson City,5.0,8
+Dr. Mickey P Sharma,Geriatric Medicine,Garnerville,5.0,8
+Dr. James B Tucker,Obstetrics and Gynecology,Fayetteville,5.0,8
+Dr. David G Savage,Internal Medicine,Bronx,5.0,8
+Dr. Eric S Barna,Internal Medicine,New York,5.0,8
+Dr. Majed El Zouhairi,Internal Medicine,Newburgh,5.0,8
+Dr. Peyman E Younesi,Internal Medicine,Jamaica,5.0,8
+Dr. Payel Gupta,Pediatrics,New York,5.0,8
+Dr. Eileen S Milano,Medical Oncology,Glen Cove,5.0,8
+Dr. Michele E Calderoni,Pediatric Adolescent Medicine,New York,5.0,8
+Dr. Warner Meadows III MD,Anesthesiology,New York,5.0,7
+Dr. Jeanne Fenner MD,Pediatrics,Brooklyn,5.0,7
+Dr. Moheb Khouzam MD,Obstetrics and Gynecology,Delhi,5.0,7
+Dr. Daniel S Schechter,Psychiatry,New York,5.0,7
+Dr. Timothy L Speciale,Neuromusculoskeletal Medicine and OMM,Buffalo,5.0,7
+Dr. Sheryl R Sulangi-Lorenc,Family Medicine,Middletown,5.0,7
+Dr. Richard L Roth,Cardiovascular Disease,Suffern,5.0,7
+Dr. Erin M Dalton,Pediatrics,Brooklyn,5.0,7
+Dr. Elizabeth H Mcnany,Family Medicine,Fayetteville,5.0,7
+Dr. Nga Q Lai,Emergency Medicine,New York,5.0,7
+Dr. Foluke O Salu,Internal Medicine,Nanuet,5.0,7
+Dr. Rolando J Rojas,Obstetrics and Gynecology,Montgomery,5.0,7
+Dr. Rehan B Asif,Obstetrics and Gynecology,Rochester,5.0,7
+Dr. Benjamin Abbadessa,Surgery,New York,5.0,7
+Dr. Andrew D Decker,Psychiatry,West Harrison,5.0,7
+Dr. Timothy D Ford,Internal Medicine,Camillus,5.0,7
+Dr. Zeid F Karadsheh,Gastroenterology,Brooklyn,5.0,7
+Dr. Alan E Rauch,Internal Medicine,Albany,5.0,7
+Dr. Anahid J Nisanian,Internal Medicine,Brooklyn,5.0,7
+Dr. Robert M Bacigalupi,Dermatology,Garden City,5.0,7
+Dr. Nick N Patel,Critical Care Medicine,Port Jefferson,5.0,7
+Dr. Jeffrey M Meyers,Pediatrics,Rochester,5.0,7
+Dr. Peter Dahl,Internal Medicine,New York,5.0,7
+Dr. Russell S Kamer,Internal Medicine,White Plains,5.0,7
+Ira A Parness,,New York,5.0,7
+Dr. David W Appel,Internal Medicine,New York,5.0,7
+Dr. Spencer Z Rosero,Clinical Cardiac Electrophysiology,Rochester,5.0,7
+Dr. Michael A Contillo,Internal Medicine,Yonkers,5.0,7
+Dr. Mary C Daye,Internal Medicine,Liverpool,5.0,7
+Faruque Ahmed,,Flushing,5.0,7
+Dr. Jeffrey H Stern,Ophthalmology,Albany,5.0,7
+Dr. Jaishree Capoor,Sports Medicine,Elmhurst,5.0,7
+Dr. Nancy L Mellow,Internal Medicine,New York,5.0,7
+Dr. Dang D Nguyen,Internal Medicine,New York,5.0,7
+Dr. Lyudmila Kholdarova MD,Anesthesiology,Hicksville,5.0,6
+Dr. Ahmed Sawas,Hematology & Oncology,New York,5.0,6
+Dr. Theodore Avruskin MD,Pediatric Endocrinology,Brooklyn,5.0,6
+Dr. Jose Lizardi MD,Obstetrics and Gynecology,Potsdam,5.0,6
+Dr. John Caronna MD,Neurology,New York,5.0,6
+Dr. Anna A Kundel,Surgery,New York,5.0,6
+Dr. Robert L Carhart Jr,Internal Medicine,Syracuse,5.0,6
+Dr. Noel E Taylor,Neurology,New York,5.0,6
+Dr. Leo F Stornelli,Family Medicine,Rochester,5.0,6
+Dr. Petr Y Sabzanov,Anesthesiology,Brooklyn,5.0,6
+Dr. Daniel T Root,Family Medicine,Lowville,5.0,6
+Dr. Richard A Gralla,Hematology and Oncology,Bronx,5.0,6
+Dr. Helen Shim-Chang,Dermatology,New York,5.0,6
+Dr. Robin J Portelli,Family Medicine,Cornwall,5.0,6
+Dr. Colette M Spaccavento,Internal Medicine,New York,5.0,6
+Dr. Harmit S Kalia,Internal Medicine,Bronx,5.0,6
+Dr. Sharon L Gardner,Pediatrics,New York,5.0,6
+Dr. Steven E Goldberg,Internal Medicine,Troy,5.0,36
+Dr. Pooja Goel,Adult Medicine,Brooklyn,5.0,6
+Dr. Johny D Ardeljan,Neurology,Great Neck,5.0,6
+Dr. Saima Sultan,Hospice and Palliative Medicine,New York,5.0,6
+Dr. Raul J Villacob Roca,Internal Medicine,Brooklyn,5.0,6
+Dr. Anne L Nolte,Family Medicine,New York,5.0,6
+Dr. Neil N Patel,Family Medicine,Brooklyn,5.0,26
+Dr. Kimberly D Kinney,Pediatrics,Orangeburg,5.0,6
+Dr. Ali F Aboufares,Internal Medicine,New York,5.0,6
+Dr. Wendy A Proskin,Pediatrics,West Harrison,5.0,6
+Darius B Greene,,Bethpage,5.0,6
+Dr. Zsolt Kulcsar,Rheumatology,New York,5.0,6
+Dr. Gabriel J Kaufman,Surgery,Albany,5.0,6
+Dr. Ajay R Kamireddi,Diagnostic Radiology,Lindenhurst,5.0,6
+Dr. Ahmed Sawas,Internal Medicine,New York,5.0,6
+Dr. Biswarup Syam,Internal Medicine,Cortland,5.0,6
+Dr. Benjamin G Fogelman,Anesthesiology,Suffern,5.0,6
+Dr. Lynne V Perry-Bottinger,Internal Medicine,New Rochelle,5.0,6
+Dr. Jeffrey D Nightingale,Ophthalmology,New York,5.0,6
+Dr. Gregory M Gustafson,Cardiovascular Disease,Flushing,5.0,6
+Alesia P Saboeiro,Plastic Surgery,New York,5.0,6
+Monica C Rhee,,New York,5.0,6
+Dr. Ann C Garlitski,Internal Medicine,New Hyde Park,5.0,6
+Dr. Juan P Rocca,Surgery,Bronx,5.0,6
+Dr. James Mclean,Neurology,Queens Village,5.0,6
+Dr. Joseph B Porder,Cardiovascular Disease,New York,5.0,6
+Dr. Jean Chelala MD,Neonatal-Perinatal Medicine,Poughkeepsie,5.0,5
+Dr. Daniel Krellenstein MD,Thoracic Surgery,New York,5.0,5
+Dr. Harsha S Reddy,Ophthalmology,New York,5.0,5
+Dr. Ayim Darkeh MD,Emergency Medicine,Brooklyn,5.0,5
+Bernard D Nidus,,New York,5.0,5
+Cynthia D Berkley,,New York,5.0,5
+Nancy J Stubbe,,Buffalo,5.0,5
+Dr. John K Saunders,Bariatric Medicine,New York,5.0,5
+Dr. Marc L Baker,Cardiovascular Disease,Cortland,5.0,5
+Dr. Donald R Morere Jr,Internal Medicine,Burnt Hills,5.0,5
+Dr. Stephen P Strasser,Pediatrics,Cobleskill,5.0,5
+Dr. Jeffrey A Morganstern,Pediatric Gastroenterology,East Setauket,5.0,5
+Dr. Natasha N Shur,Medical Genetics,Albany,5.0,5
+Dr. Glen O Loria,Internal Medicine,South Ozone Park,5.0,5
+Dr. Kishor V Phadke,Cardiovascular Disease,Buffalo,5.0,5
+Dr. Julie A Luttinger,Pediatrics,New York,5.0,5
+Dr. Mohammed I Awaad,,Buffalo,5.0,5
+Dr. Steven F Weisen,Internal Medicine,Suffern,5.0,5
+Dr. Claire Holderness,Neurology,New York,5.0,5
+Dr. Geejo Geevarghese,Family Medicine,Bronx,5.0,5
+Dr. Stephen W Hornyak,Surgery,Staten Island,5.0,5
+Dr. Debra A Ferman,Internal Medicine,East Meadow,5.0,5
+Dr. Patrick A Flynn,Pediatrics,New York,5.0,5
+Dr. Leah C Houston,Emergency Medicine,Far Rockaway,5.0,5
+Dr. Calvin O Browne,Neurology,Rockville Centre,5.0,5
+Dr. Gary F Spitz,Ophthalmology,Little Neck,5.0,5
+Dr. Harsha S Reddy,Ophthalmology,New York,5.0,5
+Dr. Minou Absy-Jaghab,Internal Medicine,Bronx,5.0,5
+Dr. Gregory D Lewish,Orthopaedic Surgery,Rochester,5.0,5
+Dr. James A Sulzer,Pediatrics,Poughkeepsie,5.0,5
+Dr. W Roy R Michaelis,Internal Medicine,Bronx,5.0,5
+Dr. Tudor N Onisei,Anesthesiology,Rego Park,5.0,5
+Dr. Herbert C Henken,Ophthalmology,Long Beach,5.0,5
+Dr. Sailaja Damineni,Family Medicine,Jamaica,5.0,5
+Dr. Kathryn O Giroux,Surgery,Plattsburgh,5.0,5
+Dr. Louis M Mudannayake,Internal Medicine,Brooklyn,5.0,5
+Dr. Fatma Akmese,Family Medicine,Rochester,5.0,5
+Dr. Shelly L Stradley,Family Medicine,Vestal,5.0,5
+Dr. Khousidai S Balwan,Internal Medicine,Great Neck,5.0,5
+Dr. Nenad Trubelja,Cardiovascular Disease,New York,5.0,5
+Dr. Christina H Koizumi,Internal Medicine,Bronx,5.0,5
+Dr. Mary C Arigo,Pediatrics,Rochester,5.0,5
+Dr. Charles A Fleischner,Emergency Medicine,Suffern,5.0,5
+Dr. Kenneth R Krauss,Cardiovascular Disease,New York,5.0,5
+Dr. Raghuram Gorti,Vascular Surgery,Pomona,5.0,5
+Dr. Todd H Doyle,Radiation Oncology,Albany,5.0,5
+Dr. Margaret Lewin MD,Internal Medicine,New York,5.0,4
+Dr. Erik Larsen MD,Emergency Medicine,White Plains,5.0,4
+Dr. Henry Weinstein MD,Psychiatry,New York,5.0,4
+"Dr. Olajide Olawepo MD, DO, BS, MBBS",Pediatrics,Far Rockaway,5.0,4
+Dr. Ronald Dushkin,Internal Medicine,New York,5.0,4
+Dr. Timothy Hall MD,Vascular Surgery,Brooklyn,5.0,4
+"Dr. Barry Sporer MD, DMD",Prosthodontics,New York,5.0,4
+Deborah R Gersony,,New York,5.0,4
+Dr. Suzanne L Wolden,Radiation Oncology,New York,5.0,4
+Dr. Matthew F Warren,Psychiatry,New York,5.0,4
+Dr. Jai J Rhee,Internal Medicine,Jackson Heights,5.0,4
+Dr. Anastasia Fokas,Pediatrics,Richmond Hill,5.0,4
+Dr. Anita O Hui,Pediatrics,New York,5.0,4
+Dr. Robert P Brawn,Internal Medicine,Buffalo,5.0,4
+Dr. Don B Bandari,Internal Medicine,Brooklyn,5.0,4
+Dr. Chandak Ghosh,Ophthalmology,Jamaica,5.0,4
+Dr. Tami S Seaman,Family Medicine,Latham,5.0,4
+Dr. Frederick A Davis,Emergency Medicine,West Islip,5.0,4
+Dr. Monica M Nuyens,Ophthalmology,Ogdensburg,5.0,4
+Dr. Claudine Higdon,Psychiatry,Glen Oaks,5.0,4
+Dr. Somasundaram Thiagarajah,Anesthesiology,New York,5.0,4
+James J Flowers,,Poughkeepsie,5.0,4
+Dr. Patricia A Bloom,Internal Medicine,Hastings On Hudson,5.0,4
+Dr. Ephraim E Back,Family Medicine,Kingston,5.0,4
+Dr. Christopher A Ramsey,Neurology,New York,5.0,4
+Dr. Neil J Resnick,Diagnostic Radiology,New York,5.0,4
+Dr. Orlando S Fuschetto,Cardiology,New Hyde Park,5.0,4
+Dr. Andrea C Dory,Family Medicine,Oyster Bay,5.0,4
+Dr. Ludmila Sedlackova,Family Medicine,Bronx,5.0,4
+Dr. Donald F Pickhardt III,Pediatrics,Buffalo,5.0,4
+Dr. Andrew S Morse,Surgery of the Hand,Albany,5.0,4
+Dr. Harriet E Mcgurk,Pediatrics,New York,5.0,4
+Dr. David Dayya,Hospitalist,Sleepy Hollow,5.0,4
+Dr. Jane A Lee,Ophthalmology,New York,5.0,4
+Dr. Rachel Grimm,Internal Medicine,Albany,5.0,4
+Dr. Mediha I Ibrahim,Critical Care Medicine,Brooklyn,5.0,4
+Dr. Parviz Soomekh,Anesthesiology,New York,5.0,4
+Dr. Jennifer K Larner,Adolescent Medicine,Slingerlands,5.0,4
+Dr. Tamara M Caithamer,Internal Medicine,New York,5.0,4
+Dr. Bogdan K Mscichowski,Pediatrics,Fairport,5.0,4
+Dr. Jedidiah Burack,Internal Medicine,Brooklyn,5.0,4
+Dr. Ronald Dushkin,Internal Medicine,New York,5.0,4
+Dr. George P Albert,Pediatrics,Buffalo,5.0,4
+Dr. John Braico MD,Pediatrics,Glens Falls,5.0,3
+Dr. Gal Mayer MD,Internal Medicine,New York,5.0,3
+Dr. Jason J Brucker,Internal Medicine,Bronx,5.0,3
+Dr. Robert Frater MD,Thoracic Surgery,Bronx,5.0,3
+Dr. Allan Hordof MD,Pediatric Cardiology,New York,5.0,3
+Dr. Yanick Chaumin MD,Internal Medicine,Elmhurst,5.0,3
+"Dr. Iqbal Mohamed MD, MBBS",Urology,Niagara Falls,5.0,3
+Dr. John Maye MD,Gynecology,Rochester,5.0,3
+Yevgeniy Vaynkof M.D.,Family Medicine,New York,5.0,193
+Dr. Scott Valet MD,Allergy and Immunology,Brockport,5.0,3
+Dr. Antonio J Paz,Anesthesiology,New York,5.0,3
+Dr. Miles H Dinner,Anesthesiology,New York,5.0,3
+Dr. Giora L Weisz,Internal Medicine,New York,5.0,3
+Dr. Jason J Brucker,Internal Medicine,Bronx,5.0,3
+Dr. Janice Y Kao,Pediatrics,Albany,5.0,3
+Dr. Jennifer Henle,Pediatrics,New York,5.0,3
+Dr. George S Giannikas,Surgery,Astoria,5.0,3
+Dr. Shelley Kolton,Gynecology,New York,5.0,3
+Eleonora Khaimova,,Rego Park,5.0,3
+Dr. Edwin L Naamon,Emergency Medicine,New York,5.0,3
+Dr. Juan Gaztanaga,Cardiovascular Disease,Mineola,5.0,3
+Dr. Jared M Theler,Otolaryngology,Syracuse,5.0,3
+Dr. Bette M Kim,Internal Medicine,New York,5.0,3
+Dr. Pankajlal S Shah,Emergency Medicine,Hornell,5.0,3
+Dr. Thomas G Newman Jr,Pulmonary Disease,Thornwood,5.0,3
+Dr. Dzhamala Gilmandyar,Maternal and Fetal Medicine,New Hyde Park,5.0,3
+Dr. Consolacion T Pimentel,Nephrology,Bronx,5.0,3
+Dr. Hui-Li L Huang,Family Medicine,Bronx,5.0,3
+Dr. Luke A Handy,Family Medicine,Little Falls,5.0,3
+Dr. Diane Hamele-Bena,Cytopathology,New York,5.0,3
+Dr. Luguang Yang,Physical Medicine and Rehabilitation,Brooklyn,5.0,3
+Dr. Efrain A Gonzalez,Infectious Disease,New York,5.0,33
+Dr. Uday K Bhargava,Internal Medicine,Brooklyn,5.0,3
+Dr. Samar Raza,Hospitalist,Bay Shore,5.0,3
+Dr. Joanne Goldman,Anesthesiology,New York,5.0,3
+Dr. Desiree S Merrell,Adolescent Medicine,Bayside,5.0,3
+Dr. Mayer I Rydzinski,Internal Medicine,Rego Park,5.0,3
+Dr. Ernel S Lewis,Emergency Medicine,Brooklyn,5.0,3
+Dr. Lisa P Hu,Physical Medicine and Rehabilitation,Glen Cove,5.0,3
+Dr. Benny Hakim,Internal Medicine,New York,5.0,17
+Dr. David L Bolon,Nuclear Cardiology,New York,5.0,17
+Dr. Mohammadomid Edrissian,Internal Medicine,Rochester,5.0,17
+Dr. Benny Hakim,Internal Medicine,New York,5.0,17
+Dr. Jacqueline E Jones,Pediatrics,New York,5.0,15
+Dr. Peter J Zeale,Internal Medicine,New York,5.0,14
+Dr. Jay M Weitzner,Dermatology,Middletown,5.0,14
+Dr. David S Dunkin,Pediatric Gastroenterology,New York,5.0,13
+Dr. Valerie S Curry,Pediatrics,Chatham,5.0,13
+Dr. Tanya P Kizelshteyn,Pediatrics,Bronx,5.0,13
+Dr. Alfio Carroccio,Surgery,New York,5.0,12
+Dr. David H Haight,Ophthalmology,New York,5.0,12
+Dr. Benetta Yee,Pediatrics,Forest Hills,5.0,12
+Dr. Svetlana Ilizarov,Sports Medicine,East Setauket,5.0,12
+Dr. Kasi R Mccune,Transplant Surgery,New York,5.0,12
+Dr. Paulinder S Rai,Physical Medicine and Rehabilitation,Brightwaters,5.0,12
+Dr. Angelo D Michilli,Internal Medicine,Bronx,5.0,12
+Dr. Yitzchak Moshenyat,Internal Medicine,Brooklyn,5.0,12
+Dr. Alfio Carroccio,Surgery,New York,5.0,12
+Dr. Robert J Sporter,Allergy and Immunology,New York,5.0,12
+"Dr. Jonathan Mink MD, PHD",Child Neurology,Rochester,5.0,11
+Dr. Louis A Buzzeo,Nephrology,Sleepy Hollow,5.0,11
+Dr. Robert J Stine,Psychiatry,Somers,5.0,11
+Dr. Madeleine D Harbison,Pediatrics,New York,5.0,11
+Dr. Nicholas W Tarricone,Pediatrics,Oneonta,5.0,11
+Dr. Timothy J Malins,Internal Medicine,Geneva,5.0,11
+Dr. Gerald F Karnow,General Practice,Spring Valley,5.0,11
+Dr. Alison J Guile,Internal Medicine,Plattsburgh,5.0,11
+Richard P Melucci,,Rocky Point,5.0,11
+Dr. Michael Bradford MD,Gastroenterology,Manhasset,5.0,10
+Dr. Stefano Ravalli,Cardiovascular Disease,New York,5.0,10
+Dr. Elizabeth G Goldstein,Internal Medicine,Forest Hills,5.0,10
+Dr. Ralph J Alvarez,Internal Medicine,Warwick,5.0,10
+Dr. Terence P Oconnor,Internal Medicine,Orchard Park,5.0,10
+Dr. Saiqa H Nabi,Pediatrics,East Setauket,5.0,10
+Dr. Jan E Duus,Medical Oncology,Plattsburgh,5.0,10
+Dr. Paul M Tejera,Internal Medicine,Potsdam,5.0,10
+Dr. George Raptis,Internal Medicine,New Hyde Park,5.0,10
+Dr. Elizabeth M Wimbley,Family Medicine,New York,5.0,10
+Dr. Mark G Stokes,Internal Medicine,Great Neck,5.0,10
+Dr. Herold M Duroseau,Pediatrics,Brooklyn,5.0,10
+Dr. Gustave J Pogo,Thoracic Surgery (Cardiothoracic Vascular Surgery),Mineola,5.0,10
+Dr. Fedir Ilnitskyy,Internal Medicine,Brooklyn,5.0,10
+"Dr. Joelle Mast MD, PHD",Child Neurology,Valhalla,5.0,9
+"Dr. Flavia Marino MD, FAAP",Pediatrics,Jackson Heights,5.0,9
+Dr. William Brender MD,Plastic Surgery,Glens Falls,5.0,9
+Dr. Miguel A Andujar,Internal Medicine,New York,5.0,9
+Dr. Satyanarayana M Narasimhadevara,Internal Medicine,Poughkeepsie,5.0,9
+Dr. Marla T Stern,Pediatrics,New York,5.0,9
+Richard W Murray,,Ithaca,5.0,9
+Dr. John R Thanus,Obstetrics and Gynecology,Bethpage,5.0,9
+Dr. Margaret A Collins,Pediatrics,Mount Kisco,5.0,9
+Dr. Silas M Chikunguwo,Bariatric Medicine,Norwich,5.0,9
+Dr. Jenny J Choi,Bariatric Medicine,Bronx,5.0,9
+Dr. Peter J Walter,Urology,Jamestown,5.0,9
+William C Brender,Plastic Surgery,Glens Falls,5.0,9
+Dr. Robert J Bos,Internal Medicine,New York,5.0,8
+Dr. Mary C Whyte,Surgery,Albany,5.0,8
+Dr. Weijia Yuan,Internal Medicine,Brooklyn,5.0,8
+Dr. Alexis Hugelmeyer,Family Medicine,Wading River,5.0,8
+Dr. Jennifer A Nastasi,Pediatrics,Medford,5.0,8
+Dr. Farhad M Gazi,Emergency Medicine,Forest Hills,5.0,8
+Dr. Sharita Nagaraj,Surgery,Troy,5.0,8
+Dr. John R Kelly,Surgery,Oneida,5.0,8
+Dr. Gina F Carena,Internal Medicine,Kingston,5.0,8
+Dr. Thor T Markwood,Internal Medicine,Utica,5.0,8
+Dr. Lee Weiss,Obstetrics and Gynecology,Stony Brook,5.0,8
+Dr. Andrew E Price,Orthopaedic Surgery,New York,5.0,8
+Dr. Carlos K Wesley,Emergency Medicine,New York,5.0,8
+Dr. Arnold M Rochwarger,Internal Medicine,New York,5.0,8
+Dr. Noa Biran,Medical Oncology,New York,5.0,8
+Dr. Yiu C Cheung,Family Medicine,New York,5.0,8
+Dr. Jonathan D Fish,Pediatric Hematology-Oncology,New Hyde Park,5.0,8
+Dr. Paulette A Stewart,Pediatrics,Cambria Heights,5.0,8
+Dr. Anthony M Caterina,Pediatrics,Orchard Park,5.0,8
+Dr. Richard L Nass,Otolaryngology,New York,5.0,8
+Dr. Alexandru A Stoian,Internal Medicine,Potsdam,5.0,8
+Dr. Robert J Bos,Internal Medicine,New York,5.0,8
+Dr. Andrew H Gotzis,Psychiatry,New York,5.0,8
+Dr. Raelene M Mckeon Kent,Pediatrics,Horseheads,5.0,8
+Dr. Lance I Kovar,Internal Medicine,West Nyack,5.0,8
+Dr. Meredith J Wong,Neurology,New York,5.0,8
+Dr. Nabil W Ghabrial,Anesthesiology,Saranac Lake,5.0,8
+Dr. George E Verrilli,Gynecology,Rhinebeck,5.0,8
+Dr. Vijay J Mani,Orthopaedic Surgery,Brooklyn,5.0,8
+Dr. Sandip J Kapur,Transplant Surgery,New York,5.0,8
+Dr. Tilak W Wikramanayake,Internal Medicine,Brooklyn,5.0,8
+Dr. David P Fuschetto,Internal Medicine,Manhasset,5.0,8
+Dr. Joyce E Gerdis Karp,Neurology,New York,5.0,8
+Dr. Lillian Li MD,Obstetrics and Gynecology,New York,5.0,7
+Dr. Leo Cardillo MD,Internal Medicine,Hartsdale,5.0,7
+Dr. Jason D Wolf,Urology,Huntington,5.0,7
+Dr. Elizabeth Greenfield MD,Pediatrics,South Richmond Hill,5.0,7
+Dr. Gary Slepowitz MD,Pediatrics,Oakland Gardens,5.0,7
+Zef A Abraham,,Rye Brook,5.0,7
+Dr. Sheldon Greenberg,Internal Medicine,Brooklyn,5.0,7
+Dr. Theo D Trandafirescu,Critical Care Medicine,Oakland Gardens,5.0,7
+Dr. Jeremiah M Benoit,Internal Medicine,Amsterdam,5.0,7
+Dr. Saji Abraham,Internal Medicine,Bayside,5.0,7
+Dr. Anita C Beecham-Robinson,Family Medicine,Brooklyn,5.0,7
+Dr. Mauricio N Valencia,Family Medicine,New Hartford,5.0,27
+Dr. Robert L Warner,Dermatology,New York,5.0,7
+Dr. Dru H Turk,Anesthesiology,Rochester,5.0,7
+Dr. Tarek J Sousou,Internal Medicine,Rochester,5.0,7
+Dr. Zuzana Belisova-Gyure,Sleep Medicine,New York,5.0,7
+Dr. Athos Patsalides,Radiology,New York,5.0,27
+Dr. Tahir A Chauhdry,Obstetrics and Gynecology,Olean,5.0,7
+Dr. Gabriel F Deangelis,Internal Medicine,Jamaica,5.0,7
+Dr. Danielle A Katz,Orthopaedic Surgery,East Syracuse,5.0,7
+Dr. Patricia E Happel,Family Medicine,Central Islip,5.0,7
+Michael H Finck,,Goshen,5.0,7
+Dr. Robert C Holland,Family Medicine,Pleasant Valley,5.0,27
+Dr. Alina Mastan,Internal Medicine,New York,5.0,7
+Dr. Daniel S Donohue,Cardiovascular Disease,Garden City,5.0,7
+Dr. Rossella Cavaliere,Psychiatry,Albany,5.0,7
+Dr. James R Stelling,Obstetrics and Gynecology,Mineola,5.0,7
+Dr. Robert P Meneses,Family Medicine,Corning,5.0,7
+Dr. Tony Leung,Urology,Buffalo,5.0,27
+Dr. Russell H Tobe Jr,Psychiatry,Orangeburg,5.0,7
+Dr. Louis J Riley Jr,Nephrology,Elmira,5.0,7
+Dr. Dmitry T Fridman,Obstetrics and Gynecology,Bronx,5.0,7
+Dr. Darlene A Lefrancois-Haber,Internal Medicine,Bronx,5.0,7
+Dr. Anthony J Gagliardi,Internal Medicine,New York,5.0,7
+Dr. Erica A Vero,Internal Medicine,New York,5.0,7
+Dr. Sara J Little,Pediatrics,Port Jervis,5.0,7
+Dr. Chester L Robbins,Geriatric Medicine,Saugerties,5.0,7
+Dr. Lawrence J Siegel,Internal Medicine,New York,5.0,7
+Dr. David H Oustecky,Internal Medicine,Nesconset,5.0,7
+Dr. Hao C Wang,Ophthalmology,Albany,5.0,27
+Dr. Bernard J Goldblatt,Internal Medicine,Brooklyn,5.0,7
+Dr. Philip H Weinberg,Anesthesiology,Roslyn,5.0,7
+Dr. Debora L Kogan-Liberman,Pediatrics,Bronx,5.0,7
+Dr. Bobby B Najari,Urology,New York,5.0,7
+Dr. Andy O Miller,Internal Medicine,New York,5.0,7
+Dr. Gainosuke Sugiyama,Surgery,New Hyde Park,5.0,7
+Dr. Itchak Schwarzbard,Orthopaedic Surgery of the Hand,East Patchogue,5.0,7
+Dr. Ezra E Dweck,Internal Medicine,New York,5.0,7
+Dr. Rhonda S Forest,Emergency Medicine,Bronx,5.0,7
+Dr. Solomon Rendler MD,Dermatology,Brooklyn,5.0,6
+Dr. Peter Lesniewski MD,Orthopedic Surgery,Plainview,5.0,6
+Dr. Sheldon C Simon,Orthopaedic Surgery,New York,5.0,6
+Dr. Teresa Miller MD,Psychiatry,Aurora,5.0,6
+"Dr. Andre Cardoso MD, DMD",Oral and Maxillofacial Surgery,Oneida,5.0,6
+Dr. Sung Hoon Yang MD,Obstetrics and Gynecology,Hornell,5.0,6
+Elizabeth S Harre,,New York,5.0,6
+Dr. Simone B Piraino,Obstetrics and Gynecology,Schenectady,5.0,6
+Dr. Ashraf S Aly,Obstetrics and Gynecology,Utica,5.0,6
+Dr. Anthony Charuvastra,Adolescent Medicine,New York,5.0,6
+Dr. Majed M Samarneh,Internal Medicine,Staten Island,5.0,6
+Dr. Vladimir J Kalas,Plastic Surgery,Troy,5.0,6
+Dr. Kevin N Ogorman Jr,Internal Medicine,Eden,5.0,6
+Dr. Geoffrey G Wittig,Family Medicine,Dansville,5.0,6
+Dr. Scott L Osur,Allergy and Immunology,Albany,5.0,6
+Dr. Alexander D Lee,Internal Medicine,New Hyde Park,5.0,6
+Dr. William L Carroll,Pediatrics,Stony Brook,5.0,6
+Dr. Andrij O Baran,Internal Medicine,Saratoga Springs,5.0,6
+Dr. Sheldon C Simon,Orthopaedic Surgery,New York,5.0,6
+Dr. Elizabeth C Verna,Internal Medicine,New York,5.0,6
+Dr. Tejas R Shah,Vascular Surgery,New York,5.0,6
+Dr. Kristen E Sahler,Psychiatry,New York,5.0,6
+Dr. Karen B Green,Hematology,White Plains,5.0,6
+Dr. John T Coppola,Internal Medicine,New York,5.0,6
+Sung Hoon Yang,,Hornell,5.0,6
+Dr. Sudhir S Goyal,Internal Medicine,Bay Shore,5.0,6
+Dr. Nanakram Agarwal,Surgery,Bronx,5.0,6
+Dr. Richard D Dickinson,Emergency Medicine,Stony Brook,5.0,6
+Dr. Brian W Ault,Emergency Medicine,West Islip,5.0,6
+Dr. Nidal Makhoul,Cardiovascular Disease,Plattsburgh,5.0,6
+Dr. Kumari A Hobbs,Obstetrics and Gynecology,New York,5.0,6
+Norbert W Sander Jr,Internal Medicine,Bronx,5.0,6
+Dr. Kathryn D Bass,Bariatric Medicine,Buffalo,5.0,6
+Dr. Jonathan W Hager,Internal Medicine,North Chili,5.0,6
+Dr. Ayca Gucalp,Internal Medicine,New York,5.0,6
+Dr. Tamara Sibalic-Mandic,Internal Medicine,Staten Island,5.0,6
+Dr. Andrea I Berg,Internal Medicine,Syracuse,5.0,6
+Dr. Shlomit Fuhrer,Neurology,New York,5.0,6
+Dr. Monzur Morshed,Emergency Medicine,Bronx,5.0,6
+Dr. Carole A Gedenberg,Pediatrics,East Meadow,5.0,6
+Mary D Chaglassian,,Elmhurst,5.0,6
+Dr. Michael H Tunick,Family Medicine,Endicott,5.0,6
+Dr. Linda M Scarsella,Internal Medicine,Lindenhurst,5.0,6
+Dr. Scott M Surowiec,Surgery,Syracuse,5.0,6
+Dr. John R Dimartino,Family Medicine,Massapequa,5.0,6
+Dr. Geraldine T Keyes,Family Medicine,New Paltz,5.0,6
+Dr. Deborah A Simmons,Dermatology,New York,5.0,6
+Dr. Joseph M Weisstuch,Internal Medicine,New York,5.0,6
+Dr. Sergio A Giralt,Hematology and Oncology,New York,5.0,6
+Dr. Christopher P Kellner,Neurological Surgery,New York,5.0,6
+Dr. Faiz Ahmad,Emergency Medicine,Selden,5.0,6
+Dr. Philip V Deluca,Internal Medicine,Glen Cove,5.0,6
+Dr. David B Kaufman,Nuclear Cardiology,Bronx,5.0,6
+Dr. Danielle M Wilbur,Orthopaedic Surgery,Rochester,5.0,6
+Dr. Emily H Sheffer,Emergency Medicine,New York,5.0,6
+Dr. Usha Thomas,Pediatrics,Staten Island,5.0,6
+Dr. Stephanie S Tseng,Dermatology,Mount Kisco,5.0,6
+Dr. David L Keefe,Obstetrics and Gynecology,New York,5.0,6
+Dr. Adedayo A Ojo,Surgery,Brooklyn,5.0,6
+Dr. Bruce Sanderov,Internal Medicine,Smithtown,5.0,6
+Dr. Hersch L Orner,Pediatrics,Flushing,5.0,6
+Dr. Keith W Kulju,Internal Medicine,Jamestown,5.0,6
+Dr. Young H Hyun,Pediatrics,Brooklyn,5.0,5
+Dr. Giuseppina Benincasa-Feingold,Pediatrics,Suffern,5.0,5
+Dr. Daniel Shifteh MD,Diagnostic Radiology,Roslyn Heights,5.0,5
+Dr. Min Lin MD,Obstetrics and Gynecology,Corning,5.0,5
+Dr. Ferrell A Motlow,Pediatrics,Brooklyn,5.0,5
+Dr. William Pitts Jr MD,Urology,New York,5.0,5
+Dr. Janet Roen MD,General Surgery,New York,5.0,5
+Dr. Gary Garfield DO,Pulmonary Disease,Monticello,5.0,5
+Dr. Ilana Forchheimer MD,Ophthalmology,Ridge,5.0,5
+Dr. Elizabeth M Efthimiou,Physical Medicine & Rehabilitation,Glen Cove,5.0,5
+Dr. Naum Shaparin,Hospice & Palliative Medicine,Bronx,5.0,5
+Dr. Nora Brockner MD,Psychiatry,New York,5.0,5
+Dr. James Wopperer MD,Orthopedic Surgery,Lewiston,5.0,5
+Dr. David Ross MD,Emergency Medicine,New York,5.0,5
+Ivan P Szathmary,,Liverpool,5.0,5
+Dr. Scott A Gerson,Internal Medicine,Brewster,5.0,5
+Geralyn A Groh-Szuba,Pediatrics,Rockville Centre,5.0,5
+Keith Haller,,New York,5.0,5
+Dr. Samuel Bitton,Pediatrics,New Hyde Park,5.0,5
+Dr. Manju M Chandra,Pediatrics,Mineola,5.0,5
+Dr. Regina M Digiovanna,Internal Medicine,Brooklyn,5.0,5
+Dr. Roger E Padilla,Anesthesiology,New York,5.0,5
+Dr. Stuart G Selkin,Otolaryngology,Melville,5.0,5
+Dr. Rachel M Nazarian,Dermatology,New York,5.0,5
+Rajaram S Rao,,Ithaca,5.0,5
+Constantino G Fernandez,Obstetrics and Gynecology,Rochester,5.0,5
+Dr. Barbara Anne A Morisseau,Pediatrics,Syracuse,5.0,5
+Dr. Najat A Turaif,Nuclear Cardiology,Buffalo,5.0,5
+Dr. Alain A Le Guillou,Pediatrics,Larchmont,5.0,5
+Dr. Anthony D Freundel,Undersea and Hyperbaric Medicine,Buffalo,5.0,5
+Dr. Seth J Gordon,Internal Medicine,Albany,5.0,5
+Dr. Rana Kaplan,Critical Care Medicine,New York,5.0,5
+Dr. Karen A Autio,Medical Oncology,New York,5.0,5
+Dr. Nancy J Dintenfass,Diagnostic Radiology,Roslyn,5.0,5
+Dr. Andrea Rich,Pediatrics,Bronx,5.0,5
+Dr. Brent S Ingerick,Family Medicine,Elmira,5.0,5
+Dr. Emmanuel N Moustakakis,Cardiovascular Disease,Flushing,5.0,5
+Dr. Bruce D Logan,Internal Medicine,New York,5.0,5
+Dr. John S Rubin,Emergency Medicine,Utica,5.0,5
+Dr. Robert L Slavens,Ophthalmology,Syracuse,5.0,5
+Dr. Lernice L Henry,Pediatrics,Middletown,5.0,5
+Dr. James T Connelly,Nuclear Cardiology,Auburn,5.0,5
+Dr. Alisa J Graf,Pediatrics,Nyack,5.0,5
+Dr. Alicia D Mcgill,General Practice,New York,5.0,5
+Dr. Jose M Dizon,Cardiovascular Disease,West Harrison,5.0,5
+Dr. William S Rosenfeld,Neurology,Katonah,5.0,5
+Dr. Michael W Kalsman,Family Medicine,Salamanca,5.0,5
+Dr. Narendra K Trivedi,Neurology,Amityville,5.0,5
+Dr. Mikhail Chernov,Anesthesiology,New York,5.0,5
+Dr. Frances W Lee,Neurology,New York,5.0,5
+Dr. Lawrence E Krawitz,Pediatrics,Nanuet,5.0,5
+Dr. Mario F Victoria,Pediatrics,Watertown,5.0,5
+Dr. Kevin H Klayman,Radiology,Elmira,5.0,5
+Faruk M Koreishi,,Orchard Park,5.0,5
+Dr. Douglas R Labar,Neurology,New York,5.0,5
+Dr. Gabrielle J Wolfsberger,Family Medicine,Hyde Park,5.0,5
+Dr. Melissa J Veino,Pediatrics,Slingerlands,5.0,5
+Dr. Bertha A John,Pediatrics,New York,5.0,5
+Dr. Israel A Aviles,Internal Medicine,Jackson Heights,5.0,5
+Dr. Jennifer D Kozhin-Revich,Family Medicine,Forest Hills,5.0,5
+Dr. Elizabeth M Cox,Internal Medicine,Rochester,5.0,5
+Dr. Bahaa E Mokhtar,Radiation Oncology,Brooklyn,5.0,5
+Dr. Lisa K Law,Ophthalmology,New York,5.0,5
+Dr. John C Chang,Ophthalmology,Pearl River,5.0,5
+Dr. Elena A Klimenko,Internal Medicine,New York,5.0,5
+Dr. George M Malegiannakis,Internal Medicine,Brooklyn,5.0,5
+Dr. Katerina Tellier,Anesthesiology,New York,5.0,5
+Dr. Behzad B Paimany,Internal Medicine,Rego Park,5.0,5
+Dr. Salvatore J Caravella,Pediatrics,Huntington,5.0,5
+Dr. Marcina Cooper,Pediatrics,Bronx,5.0,5
+Dr. Quratul A Raja,Internal Medicine,Dunkirk,5.0,5
+Dr. Evelyn Irizarry,Colon and Rectal Surgery,Bronx,5.0,5
+Dr. Abigail D Zuger,Internal Medicine,New York,5.0,5
+Dr. Thomas F Cozza,Pediatrics,Buffalo,5.0,5
+Dr. Mercedes Martinez,Pediatric Gastroenterology,New York,5.0,5
+Dr. Edris Z Alderwish,Cardiovascular Disease,Brooklyn,5.0,5
+Dr. Gerard Weinberg,Surgery,Albany,5.0,5
+Dr. Douglas G Walled,Radiology,Albany,5.0,5
+Dr. Kashif Ramzan,Emergency Medicine,New York,5.0,5
+Dr. Shafiq U Rehman,Cardiology,Brooklyn,5.0,5
+Dr. Michael S Halata,Pediatric Gastroenterology,Valhalla,5.0,5
+Dr. Danielle E Marino,Gastroenterology,Rochester,5.0,5
+Dr. Mitchell A Adler,Internal Medicine,Irvington,5.0,5
+Dr. Akash Parashar,Hospitalist,Buffalo,5.0,5
+Dr. Hildred Machuca,Pediatrics,Bronx,5.0,5
+Dr. Geria L Furtuna,Family Medicine,Rochester,5.0,5
+Dr. Alexander Askanas,Internal Medicine,New York,5.0,5
+Dr. Mariam F Ejaz,Pediatrics,Brentwood,5.0,5
+Dr. Preeti Parikh,Pediatrics,New York,5.0,5
+Dr. Kim J Abrams,Pediatrics,New Rochelle,5.0,5
+Dr. Ingrid M Hriljac,Internal Medicine,New York,5.0,5
+Dr. Dimitrios S Mastrogiannis,Obstetrics and Gynecology,West Islip,5.0,5
+Dr. Kimberly E Clemente,Family Medicine,Ballston Spa,5.0,5
+Dr. Vinod P Patel,Internal Medicine,Brooklyn,5.0,5
+Dr. Mehmet K Albulak,Critical Care Medicine,Bronx,5.0,5
+Dr. Margaret M Woods,Pediatrics,Schenectady,5.0,5
+Dr. Young H Hyun,Pediatrics,Brooklyn,5.0,5
+Dr. Nelly J Oundjian,Pediatrics,New York,5.0,5
+Dr. Sheryl Green,Radiation Oncology,New York,5.0,5
+Dr. Timothy W Deyer,Radiology,New York,5.0,5
+Dr. Jonathan N Ginns,Internal Medicine,New York,5.0,5
+Marjory Alabre,,Sleepy Hollow,5.0,5
+Dr. Anna Dunevsky,Physical Medicine and Rehabilitation,Brooklyn,5.0,5
+Dr. Benjamin Stein,Emergency Medicine,Forest Hills,5.0,5
+Dr. David L Meryash,Clinical Genetics (M.D.),New Hyde Park,5.0,5
+Dr. Morton D Borg,Pediatric Cardiology,New York,5.0,5
+Dr. Khalida Itriyeva,Pediatrics,New Hyde Park,5.0,5
+Dr. Jill A Jacobson,Neurology,New York,5.0,5
+Dr. Giuseppina Benincasa-Feingold,Pediatrics,Suffern,5.0,5
+Dr. Ferrell A Motlow,Pediatrics,Brooklyn,5.0,5
+Dr. Rupesh R Mehta,Internal Medicine,Port Jefferson Station,5.0,5
+Dr. Thomas E Penn,Vascular Surgery,Rochester,5.0,5
+Dr. Kadi-Ann N Bryan,Urology,New York,5.0,5
+Dr. Ida Katseva MD,Pediatrics,Forest Hills,5.0,4
+Dr. Patricia Giardina MD,Pediatric Hematology and Oncology,New York,5.0,4
+Dr. Iosif Kleynerman MD,Internal Medicine,Brooklyn,5.0,4
+Dr. Jackson Shaji,Nephrology,Floral Park,5.0,4
+Dr. Leslie Kerr MD,Rheumatology,New York,5.0,4
+Dr. Jeffrey Low MD,Internal Medicine,New York,5.0,4
+Dr. Karen S Ballard,Obstetrics & Gynecology,Hawthorne,5.0,4
+Dr. Vincent Miller MD,Medical Oncology,New York,5.0,4
+Dr. Antonia New MD,Psychiatry,Bronx,5.0,4
+Dr. Lori Shah,Pulmonary Disease,New York,5.0,4
+Dr. Marcelo Rubinsky MD,Anesthesiology,New York,5.0,4
+Christopher J Hanlon,,Manhasset,5.0,4
+Gary E Veith,,Bay Shore,5.0,4
+Grace M Vasconez-Pereira,,New York,5.0,4
+Ronald E Carr,,New York,5.0,4
+Winfred S Tovar,,Bronx,5.0,4
+Priyanka Gupta,Pediatrics,New York,5.0,24
+Jacob E Groopman,,Brooklyn,5.0,4
+Jeffrey S Ben-Zvi,,New York,5.0,4
+Dr. Llewellyn A Foulke,Pathology,Albany,5.0,4
+Dr. Shellie L Gumbs,Internal Medicine,New York,5.0,4
+Samuel Spitalewitz,Nephrology,Brooklyn,5.0,4
+Dr. Michael D Nazar,Geriatric Medicine,Rochester,5.0,4
+Dr. Amy R Leonard,Pediatrics,Selden,5.0,4
+Dr. Salvatore A Cilmi,Internal Medicine,New York,5.0,4
+Jason A Koutcher,,New York,5.0,4
+Dr. Suresh Sofat,Internal Medicine,Lockport,5.0,4
+Dr. Brian Trappler,Neurology,Brooklyn,5.0,4
+Dr. Peter R Mariuz,Internal Medicine,Rochester,5.0,4
+Dr. Anthony J Tranguch,Neurology,New York,5.0,4
+Dr. Marcelo F Venegas Pizarro,Internal Medicine,Brooklyn,5.0,4
+Dr. David J Chen,Physical Medicine and Rehabilitation,Middletown,5.0,24
+Dr. Paul E Menge,Family Medicine,Rensselaer,5.0,4
+Dr. Maranatha E Lougheed,Obstetrics and Gynecology,Horseheads,5.0,4
+Dr. Julia L Cameron-Vendrig,,Buffalo,5.0,4
+Dr. Thomas T Little,Pediatrics,Fayetteville,5.0,4
+Dr. Monisha M Vora,Ophthalmology,Manhasset,5.0,4
+Dr. Chani S Traube,Pediatrics,New York,5.0,4
+Dr. Rosanna C Polsinelli,Pediatrics,Mineola,5.0,4
+Dr. Kathi F Teixeira,Orthopaedic Surgery,Auburn,5.0,4
+Dr. Frank K Tung,Cardiovascular Disease,New York,5.0,4
+Dr. Gary R Burke,Internal Medicine,New York,5.0,4
+Dr. Michael A Redlener,Emergency Medical Services,New Hyde Park,5.0,4
+Dr. Eric M Socha,Pediatrics,Penfield,5.0,4
+Dr. Mark J Corapi,Internal Medicine,Mineola,5.0,4
+Dr. Jill K Rossinow,Radiation Oncology,Cooperstown,5.0,4
+Dr. Lembitu Sorra,Internal Medicine,New York,5.0,4
+Dr. William J Montesano Jr,Family Medicine,Rochester,5.0,4
+Dr. Dawn M Heil,Plastic Surgery,Elmira,5.0,4
+Dr. Sowmya Kanikkannan,Internal Medicine,Albany,5.0,4
+Dr. Anthony Boutin,Emergency Medicine,East Meadow,5.0,4
+Dr. Belle Goldstein,Dermatology,New York,5.0,4
+Dr. Sandy Saintonge,Pediatrics,Jackson Heights,5.0,4
+Dr. Claire P Stutzman,Pediatrics,Rochester,5.0,4
+Dr. Nancy H Coles,Ophthalmology,Purchase,5.0,4
+Dr. Osahon Ukponmwan,Internal Medicine,Yonkers,5.0,4
+Dr. Anuthep Benja-Athon,Pain Medicine,New York,5.0,4
+Dr. Philip J Wagner,Pain Medicine,New York,5.0,4
+Dr. Steven E Feldon,Ophthalmology,Rochester,5.0,4
+Dr. Derek D Reformat,Plastic Surgery,New York,5.0,4
+Dr. Albert Yeo,Family Medicine,New York,5.0,4
+Dr. David B Lawrence,Otolaryngology,Purchase,5.0,4
+Dr. Dennis A Goodman,Internal Medicine,New York,5.0,4
+Dr. Robert A Meyers,Pulmonary Disease,New York,5.0,4
+Dr. George J Shervanick II,Emergency Medicine,Hudson,5.0,4
+Dr. Anil A Thomas,Psychiatry,New York,5.0,4
+Dr. Hallie Y Zwibel,Family Medicine,Old Westbury,5.0,4
+Alfred T Vitanza,,Poughkeepsie,5.0,4
+Dr. Manjil I Chatterji,Radiology,New York,5.0,4
+Dr. Kara F Sheinart,Psychiatry,New York,5.0,4
+Dr. Jill B Gressin,Emergency Medicine,Yonkers,5.0,4
+Dr. Joshua P Bozek,Emergency Medicine,Patchogue,5.0,4
+Dr. David A Bushinsky,Nephrology,Rochester,5.0,4
+Dr. Henry Hom,Internal Medicine,New York,5.0,4
+Dr. David B Cohen,Emergency Medicine,Stony Brook,5.0,34
+Dr. Rudolph J Mueller,Internal Medicine,Jamestown,5.0,4
+Dr. James K Gerstley,Radiation Oncology,Nyack,5.0,4
+Dr. Lan Mo,Hematology,New York,5.0,4
+Dr. Marie N Peloso Azzu,Pediatrics,Rockville Centre,5.0,4
+Dr. Paul F Kent,Clinical Neurophysiology,New York,5.0,4
+Dr. William H Frishman,Cardiovascular Disease,Hawthorne,5.0,4
+Dr. Ulrike W Kaunzner,Neurology,New York,5.0,4
+Dr. Pedro R Moreno,Internal Medicine,New York,5.0,4
+Dr. Jacob T Go,Pediatrics,Flushing,5.0,4
+Dr. Michael H Shih,Vascular Surgery,Brooklyn,5.0,24
+Dr. Alex Reyentovich,Cardiovascular Disease,New York,5.0,4
+Dr. Peter B Luke,Psychiatry,Manorville,5.0,4
+Dr. Edward Iskhakov,Internal Medicine,Albany,5.0,4
+Murray A Meltzer,,New York,5.0,4
+Dr. Veeraf M Sanjana,Internal Medicine,New York,5.0,4
+Dr. Hector B Santana,Psychiatry,Fayetteville,5.0,4
+Dr. Anna C Kanaley,Internal Medicine,Orchard Park,5.0,4
+Dr. Christos I Stavropoulos,Surgery,New York,5.0,4
+Dr. Jackson Shaji,Internal Medicine,Floral Park,5.0,4
+Dr. Paul G Ottaviano,Internal Medicine,New York,5.0,4
+Dr. Mary L Brasch,Pediatrics,Clifton Park,5.0,4
+Dr. Craig W Hertz,Internal Medicine,New Hyde Park,5.0,4
+Dr. Evan S Mahl,Emergency Medicine,Brooklyn,5.0,4
+Dr. Mark A Thomas,Physical Medicine and Rehabilitation,Bronx,5.0,34
+Dr. Garrett M Deckel,Psychiatry,New York,5.0,4
+Dr. Michael J Tulloch,Internal Medicine,Potsdam,5.0,4
+Dr. Burton A Cohen,Radiology,New York,5.0,4
+Dr. Andrew Mutnick,Pediatrics,Hawthorne,5.0,4
+Dr. Richard H Smith,Internal Medicine,Rego Park,5.0,34
+Dr. Michael T Ingoglia,Anesthesiology,Melville,5.0,4
+Dr. Paul X Li,Family Medicine,Flushing,5.0,4
+Dr. Adrienne A Salomon,Psychiatry,Middletown,5.0,4
+Dr. Baby S Talapaneni,Obstetrics and Gynecology,Rockville Centre,5.0,4
+Dr. Andrew S Dalsimer,Neurology,New York,5.0,4
+Dr. David R Bickers,Dermatology,New York,5.0,4
+Dr. Michele L Gorlitsky,Pediatrics,Garnerville,5.0,4
+Dr. Maria A Sullivan,Addiction Psychiatry,New York,5.0,4
+Dr. Ahmed Y Khan,Internal Medicine,Schenectady,5.0,4
+Dr. Megan I Greenleaf,Internal Medicine,Rochester,5.0,4
+Dr. Ronald H Wharton,Internal Medicine,Bronx,5.0,4
+Dr. Srilaxmi M Bearelly,Ophthalmology,New York,5.0,4
+Dr. Bryce J Yerman,Emergency Medicine,Rochester,5.0,4
+Dr. Sandra C Brunson,Pediatric Cardiology,New Hyde Park,5.0,4
+Dr. Javier Baquero,Colon and Rectal Surgery,Manhasset,5.0,4
+Dr. Joseph M Delehanty,Cardiovascular Disease,Rochester,5.0,4
+Dr. Tara E Zahtila,Family Medicine,Plainview,5.0,4
+Dr. Vikram V Duvvi,Geriatric Psychiatry,Bronx,5.0,4
+Dr. Vijay H Aswani,Pediatrics,Buffalo,5.0,4
+Dr. Vasyl L Kasiyan,Internal Medicine,Rochester,5.0,4
+Dr. Jang I Moon,Surgery,New York,5.0,4
+Dr. Frank M Dovidio,Vascular Surgery,New York,5.0,4
+Dr. Dominick S Zito,Internal Medicine,Jamaica,5.0,4
+Dr. John W Kwiatek,Pulmonary Disease,Glen Head,5.0,4
+Dr. Caroline Defilippo,Internal Medicine,West Harrison,5.0,4
+Dr. Syed K Razi,Neurology,Syracuse,5.0,4
+Dr. Benjamin N Angarita,Psychiatry,New York,5.0,4
+Karen S Ballard,,Hawthorne,5.0,4
+Jose R Sotolongo,,Accord,5.0,4
+Dr. John K Maesaka,Internal Medicine,Mineola,5.0,4
+Dr. Christopher A Phang,Pediatrics,New York,5.0,4
+Dr. Athena Kritharis,Internal Medicine,Manhasset,5.0,4
+Dr. William J Mesibov,Pediatrics,Syosset,5.0,4
+Dr. Jeffrey F Zwerling,Ophthalmology,Rockaway Park,5.0,4
+Dr. Stephen L Goldwasser,Internal Medicine,Brooklyn,5.0,4
+Dr. Carmen J Ellie Jr,Emergency Medicine,Rochester,5.0,4
+Patricia J Giardina,Pediatric Hematology-Oncology,New York,5.0,4
+Dr. Shelley D Samuel,Internal Medicine,Port Jervis,5.0,4
+Dr. Grigoriy Grenader,Family Medicine,Plainview,5.0,4
+Dr. Marc Z Tessler,Adolescent Medicine,Brooklyn,5.0,4
+Dr. Fahd Ali,Surgery,Mineola,5.0,4
+Dr. Apolinario B Mateo Jr,Internal Medicine,Bronx,5.0,4
+Dr. Sarah C Nosal,Family Medicine,New York,5.0,4
+Dr. Subhadra Bandhakavi,Internal Medicine,Bronx,5.0,4
+Dr. Jesse M Hackell,Pediatrics,Pomona,5.0,4
+Dr. Olabisi O Asimolowo,Anesthesiology,Brooklyn,5.0,4
+Dr. Brian C Mchugh,Anesthesiology,Staten Island,5.0,24
+Dr. Rochelle H Brief,Physical Medicine & Rehabilitation,Nanuet,5.0,3
+Dr. Simmy S Bank,Gastroenterology,New Hyde Park,5.0,3
+"Dr. Santoshi Nath MD, BS, FAAP, MBBS",Pediatrics,New Windsor,5.0,3
+Dr. Benedict Reynolds MD,General Surgery,Bronx,5.0,3
+Dr. Kevin Reilly MD,Obstetrics and Gynecology,Bronx,5.0,3
+Dr. John Esper MD,Family Medicine,Gloversville,5.0,3
